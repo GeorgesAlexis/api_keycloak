@@ -24,7 +24,7 @@ https://github.com/keycloak/keycloak
 ##API :
 
 Prendre keycloak du github officiel et générer un JAR de l'exemple REST :
-![Image of REST JAR](https://github.com/GeorgesAlexis/api_keycloak/artefact.png)
+![Image of REST JAR](https://github.com/GeorgesAlexis/api_keycloak/blob/master/artefact.png)
 
 Déplacer le JAR dans le dossier standalone "\standalone\deployments".
 Celui ci va être auto déployer, sinon restart de le serveur
